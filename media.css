@@ -1,0 +1,10 @@
+@media (max-width: 1200px){
+    .navigation-wrapper{
+        flex-direction: column;
+        height: auto;
+    }
+    .body-wrapper{
+        flex-direction: column;
+        background: linear-gradient(to top, #353840, #0B0B0D);
+    }
+}
